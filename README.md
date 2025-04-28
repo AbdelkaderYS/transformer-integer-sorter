@@ -39,9 +39,9 @@ python sorting_transformer.py
 ## Configuration
 You can adjust the following parameters in the main() function:
 
-*vocab_size: Maximum value of integers in the sequence (default: 20)
-*embed_dim: Embedding dimension (default: 64)
-*seq_length: Length of the sequences to sort (default: 10)
-*num_layers: Number of transformer encoder layers (default: 3)
-*batch_size: Training batch size (default: 64)
+* vocab_size: Maximum value of integers in the sequence (default: 20)
+* embed_dim: Embedding dimension (default: 64)
+* seq_length: Length of the sequences to sort (default: 10)
+* num_layers: Number of transformer encoder layers (default: 3)
+* batch_size: Training batch size (default: 64)
 * num_epochs: Number of training epochs (default: 300)
